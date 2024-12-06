@@ -12,6 +12,6 @@ My knowledges:
  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black?target=_blank)
 
-You can contact me from [here](https://zil.ink/RezaHoss?target=_blank).
+You can contact me from [here](https://linksta.cc/@reza).
 
 GoodBye!
