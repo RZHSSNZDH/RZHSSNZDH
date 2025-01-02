@@ -3,11 +3,17 @@ Hi 👋 My name is Reza Hosseinzadeh
 Mechanical engineering student and a fan of software
 ----------------------------------------------------
 I do not know much about programming, but I write some scripts for myself. Mostly I activate as translator in projects instead of developer. For example:
+
 https://crowdin.com/project/phanpy/
+
 https://hosted.weblate.org/engage/metadata-cleaner/
+
 https://hosted.weblate.org/projects/Lock/
+
 * 🌍  I'm based in Tehran*
+
 ✉️  You can contact me at [rezahosseinzadeh@riseup.net](mailto:rezahosseinzadeh@riseup.net)*
+
 ⚡  Find more about me in https://linksta.cc/@reza.
 
 ### Skills
