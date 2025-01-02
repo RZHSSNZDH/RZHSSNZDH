@@ -10,7 +10,7 @@ https://hosted.weblate.org/engage/metadata-cleaner/
 
 https://hosted.weblate.org/projects/Lock/
 
-* 🌍  I'm based in Tehran*
+🌍  I'm based in Tehran
 
 ✉️  You can contact me at [rezahosseinzadeh@riseup.net](mailto:rezahosseinzadeh@riseup.net)*
 
