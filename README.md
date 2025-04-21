@@ -14,7 +14,7 @@ https://hosted.weblate.org/projects/Lock/
 
 ✉️  You can contact me at [rezahosseinzadeh@riseup.net](mailto:rezahosseinzadeh@riseup.net)*
 
-⚡  Find more about me in https://RZHSSNZDH.github.io.
+⚡  Find more about me in https://rezahosseinzadeh.ir.
 
 ### Skills
 
